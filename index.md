@@ -15,7 +15,7 @@ Escute todos os episódios em:
 
 ## Nossa equipe:
 - [Fabio Petrillo (École de technologie supérieure - Montreal)](https://fabiopetrillo.com/)
-- [Danilo Monteiro (Zup)](https://github.com/dan1lo)
+- [Danilo Monteiro (Zup e Faculdade SENAC - PE)](https://github.com/dan1lo)
 - [Leonardo Fernandes (IFAL)](https://sigaa.ifal.edu.br/sigaa/public/docente/portal.jsf?siape=1887897)
 - [Adolfo Gustavo Serra Seca Neto (UTFPR) - co-anfitrião](https://adolfont.github.io/)
 - [Maria Claudia Emer (UTFPR)](https://scholar.google.com.br/citations?user=4i7kDeMAAAAJ&hl=pt-BR) - co-anfitriã
